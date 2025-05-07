@@ -1,0 +1,2 @@
+# C++ library
+libmosquittopp1: library-not-linked-against-libc [usr/lib/*/libmosquittopp.so.*]
